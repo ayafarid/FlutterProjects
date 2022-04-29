@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget{
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.black,
+          leading: Icon(Icons.menu),
           title: const Text(
               'Aya Farid'
           ),
